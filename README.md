@@ -1,5 +1,9 @@
 # Disney+ Clone
 
+## Project Preview
+
+![Disney Clone Screenshot](./screenshot.png)
+
 ## Description
 
 This project is a **Full Stack Disney+ Clone** built using **React.js, Tailwind CSS, Vite, Node.js, and Express.js**.
